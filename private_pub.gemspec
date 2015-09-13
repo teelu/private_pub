@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
-  s.name        = "private_pub"
-  s.version     = "1.0.3"
-  s.author      = "Ryan Bates"
-  s.email       = "ryan@railscasts.com"
-  s.homepage    = "http://github.com/ryanb/private_pub"
+  s.name        = "private_pub_no_sig"
+  s.version     = "0.0.1"
+  s.author      = "Ryan Bates, Terrence Lun"
+  s.email       = "ryan@railscasts.com, terrence.lun@gmail.com"
+  s.homepage    = "https://github.com/teelu/private_pub"
   s.summary     = "Private pub/sub messaging in Rails."
   s.description = "Private pub/sub messaging in Rails through Faye."
 
